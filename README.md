@@ -2,5 +2,7 @@
 
 # gpsNeo6m
 parsing data of gps neo 6m ( ESP32 Microcontroller)
+platform : esp-idf
+IDE : platform io
 
 
